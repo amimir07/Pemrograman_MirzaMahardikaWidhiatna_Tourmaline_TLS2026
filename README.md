@@ -1,2 +1,6 @@
 # Pemrograman_MirzaMahardikaWidhiatna_Tourmaline_TLS2026
-Problem 1: The Last Astronaut Josephus Problem dengan K dinamis: +2 jika eliminasi genap, -1 jika ganjil (min 2). Simulasi array melingkar hingga tersisa 1 astronot.  Problem 2: Alien-In-The-Middle Enkripsi huruf berbasis posisi alfabet (A=1..Z=26), dijumlah dengan huruf asli sebelumnya, wrap jika >26. Fungsi enkripsi() &amp; dekripsi().
+The Last Astronaut
+Josephus problem, tetapi K berubah setiap eliminasi: +2 jika nomornya genap, -1 jika ganjil (min 2). Astronot dieliminasi bergiliran dalam lingkaran sampai sisa 1.
+
+Alien-In-The-Middle
+Sandi huruf: posisi alfabet (A=1..Z=26) dijumlah dengan huruf sebelumnya, Jika lewat 26 Kembali ke A. Ada fungsi enkripsi & dekripsi.
